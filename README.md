@@ -30,7 +30,7 @@
 
 GitHub Pagesでは、リポジトリのルートを公開元に設定すると `index.html` が表示されます。
 
-公開URL：https://techueda-bot.github.io/polano-works-tour-guide/
+公開URL：https://techuueda-bot.github.io/polano-works-tour-guide/
 
 ## 注意
 
