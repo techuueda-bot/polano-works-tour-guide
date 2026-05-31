@@ -2,6 +2,10 @@
 
 架空の就労継続支援B型事業所「ポラーノワークス」の見学案内サイトです。
 
+## 公開URL
+
+https://techuueda-bot.github.io/polano-works-tour-guide/
+
 ## 制作目的
 
 見学前に不安を感じている本人が、利用を急いで決めなくてもよいことを理解し、自分のペースで見学について相談できるようにするための1ページサイトです。
@@ -21,17 +25,6 @@
 - CSS
 - JavaScript
 
-## 公開ファイル
-
-- `index.html`
-- `C18ABEA4-0DB1-445E-93CC-EDEAAE953769.png`
-
-## GitHub Pages
-
-GitHub Pagesでは、リポジトリのルートを公開元に設定すると `index.html` が表示されます。
-
-公開URL：https://techuueda-bot.github.io/polano-works-tour-guide/
-
 ## 注意
 
-このサイトはポートフォリオ用の架空制作です。
+このサイトはポートフォリオ用の架空制作です。実在の事業所情報ではありません。
