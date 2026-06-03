@@ -766,6 +766,18 @@
       font-size: 0.9rem;
     }
 
+    .form-section-note {
+      grid-column: 1 / -1;
+      margin: 2px 0 0;
+      padding: 12px 14px;
+      border: 1px solid rgba(35, 59, 99, 0.1);
+      border-radius: var(--radius);
+      background: rgba(248, 247, 243, 0.72);
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.7;
+    }
+
     input,
     select,
     textarea {
@@ -1397,7 +1409,7 @@
         <div class="section-head">
           <p class="section-kicker">写真で見る道順</p>
           <h2 id="route-title">初めての場所へ行く不安を、少し減らします。</h2>
-          <p class="section-text">実制作では現地写真を差し替える想定です。ここではプレースホルダーで導線を設計しています。</p>
+          <p class="section-text">ポートフォリオ上はプレースホルダーで構成しています。実制作では、駅から入口までの現地写真に差し替える想定です。</p>
         </div>
         <div class="route-grid">
           <article class="photo-card">
@@ -1501,6 +1513,7 @@
                 <label for="contact-method">連絡先（電話番号またはメールアドレス） <span class="required-note">必須</span></label>
                 <input id="contact-method" name="contact" autocomplete="email tel" required>
               </div>
+              <p class="form-section-note">ここから先は、書ける範囲で大丈夫です。決まっていない項目は空欄のまま送れます。</p>
               <div class="field">
                 <label for="called-name">見学時、何とお呼びすればよいですか？</label>
                 <input id="called-name" name="called-name">
